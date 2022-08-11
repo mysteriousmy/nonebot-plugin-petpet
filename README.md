@@ -1,5 +1,7 @@
 # nonebot-plugin-petpet
 
+fork过来参考下opencv表情包合成的用法
+
 [Nonebot2](https://github.com/nonebot/nonebot2) 插件，制作头像相关的表情包
 
 文字类表情包制作：[nonebot-plugin-memes](https://github.com/noneplugin/nonebot-plugin-memes)
